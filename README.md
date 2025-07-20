@@ -1,4 +1,5 @@
 EDA on Retail Sales Data
+
 🔍 Objective
 To analyze retail sales data using Exploratory Data Analysis (EDA) techniques in order to identify patterns, trends, and actionable business insights.
 
