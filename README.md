@@ -1,34 +1,37 @@
-# EDA on Retail Sales Data
+EDA on Retail Sales Data
+🔍 Objective
+To analyze retail sales data using Exploratory Data Analysis (EDA) techniques in order to identify patterns, trends, and actionable business insights.
 
-This project performs Exploratory Data Analysis (EDA) on a retail sales dataset to uncover patterns and provide actionable insights for businesses.
+🛠️ Tools Used
+Python
 
-## Contents
+pandas
 
-- `EDA on Retail Sales Data.ipynb`: Main notebook with data loading, cleaning, analysis, and visualization.
-- `README.md`: This file, explaining the project.
+matplotlib
 
-## Key Concepts Covered
+seaborn
 
-- Data Cleaning
-- Descriptive Statistics
-- Time Series Analysis
-- Customer and Product Analysis
-- Data Visualization
-- Business Recommendations
+Jupyter Notebook
 
-## Requirements
+📊 Steps Performed
+Loaded and explored the dataset
 
-- Python 3.x
-- pandas
-- matplotlib
-- seaborn
-- jupyter
+Cleaned and preprocessed the data
 
-## How to Run
+Performed descriptive statistical analysis
 
-1. Open the notebook in Jupyter or Google Colab.
-2. Run each cell in order.
+Conducted time-based sales analysis
 
-## Dataset
+Analyzed customer and product-level performance
 
-Used sample retail sales dataset. 
+Visualized key trends and correlations
+
+Derived insights and business recommendations
+
+✅ Outcome
+Identified top-selling products and high-value customers
+
+Detected sales trends over time
+
+Provided insights to support marketing and inventory decisions
+
