@@ -22,4 +22,4 @@ To analyze retail sales data using Exploratory Data Analysis (EDA) techniques in
 ## ✅ Outcome  
 - Identified top-selling products and high-value customers  
 - Detected sales trends over time  
-- Provided insights to support marketing and inventory decisions  
+ 
